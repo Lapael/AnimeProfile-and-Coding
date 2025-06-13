@@ -13,6 +13,8 @@
 - contest : 대회 참여 횟수
 - ani_num : 애니 키워드 수 (높을수록 더욱 씹덕일 확률 높을듯)
 
+- [csv 파일](https://drive.google.com/file/d/1_3RNfe_Ukz0httfJYHGZqizTWrPRlbTs/view?usp=drive_link)
+
 ## 분석
 ### Cell 1:
 - 데이터 불러오기
