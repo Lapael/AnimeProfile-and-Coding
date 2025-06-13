@@ -11,6 +11,5 @@
 - rankings / contests / ani_num 형식의 csv 작성
 
 ## 분석
-<br />
-###Cell 1:
+### Cell 1:
 - asdas
