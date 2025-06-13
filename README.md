@@ -11,4 +11,8 @@
 - rankings / contests / ani_num 형식의 csv 작성
 
 ## 분석
-- 
+- Cell 1:
+--das
+  dasd
+
+
